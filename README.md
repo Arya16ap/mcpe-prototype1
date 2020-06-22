@@ -1,2 +1,2 @@
-# mcpe-prototype1
-this is part 1 of my game
+# p5.play-boilerplate
+Boiler plate for p5.play
